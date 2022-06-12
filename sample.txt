@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 hellp world!
+=======
+hello world!
+sigeeeee!!!!!
+>>>>>>> e562590ef048d9d0bdaa65055b67519858535bed
